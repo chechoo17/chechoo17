@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="250" alt="Tecnología animada">
   <img src="https://media.giphy.com/media/l1J9RFoDzCDrkqtEc/giphy.gif" width="250" alt="Fútbol animado">
-  <img src="https://media.giphy.com/media/QTfX6Ej26zO08/giphy.gif" width="250" alt="Videojuegos animado">
+  <img src="https://ethic.es/wp-content/uploads/2023/04/videojuegos.gif" width="250" alt="Videojuegos animado">
 </div>
 
 ## 🎓 <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="30"> Formación Académica
