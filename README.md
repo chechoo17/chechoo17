@@ -1,7 +1,7 @@
 # ¡Bienvenido! 👾 Soy Sergio Paez Espitia 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="250" alt="Tecnología animada">
+  <img src="https://i.pinimg.com/originals/b0/c8/19/b0c81961153a56eab83cf03d862345af.gif" width="250" alt="Tecnología animada">
   <img src="https://i.gifer.com/Lei2.gif" width="250" alt="Fútbol animado">
   <img src="https://ethic.es/wp-content/uploads/2023/04/videojuegos.gif" width="250" alt="Videojuegos animado">
 </div>
